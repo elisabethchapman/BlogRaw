@@ -1,0 +1,22 @@
+<div class="comments">
+  <div class="row text-center">
+    <span class="align-middle" style="font-size:36px">Comments</span>
+  </div>
+  {% assign comments = site.data.comments %}
+  {% for comment in comments %}
+    {% assign currentComment = comment[1] %}
+    {% if currentComment.postTitle == page.slug %}
+      <div class="row">
+      <span style="font-size:28px">{{currentComment.name}}</span>
+      </div>
+      <div class="row">
+      {{currentComment.message | markdownify}}
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  <div class="row text-center">
+    <span class="align-middle" style="font-size:36px">Leave a comment</span>
+  </div>
+  
+</div>

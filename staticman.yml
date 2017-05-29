@@ -1,0 +1,18 @@
+comments:
+  allowedFields: ["name", "email", "message", "postTitle"]
+  allowedOrigins: ["localhost", "mitchellspryn.github.io"]
+  branch: "master"
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "timestamp-seconds"
+  format: "yml"
+  moderation: true
+  name: "mitchellspryn.github.io"
+  path: "_data/comments/{options.slug}"
+  filename: "{@postTitle}-{@id}"
+  requiredFields: ["name", "email", "message", "postTitle"]
+  commitMessage: "New User Comment Submitted."
+  pullRequestBody: "A new comment was submitted.\n\n"
+

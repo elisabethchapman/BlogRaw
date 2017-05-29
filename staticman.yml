@@ -10,7 +10,7 @@ comments:
   format: "yml"
   moderation: true
   name: "mitchellspryn.github.io"
-  path: "_data/comments/{options.slug}"
+  path: "_data/comments/{@postTitle}"
   filename: "{@id}"
   requiredFields: ["name", "email", "message", "postTitle"]
   commitMessage: "New User Comment Submitted."

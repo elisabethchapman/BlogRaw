@@ -19,7 +19,7 @@ name: Random Neuron Firings
 description: > # this means to ignore newlines until "baseurl:"
   A space for the random rants and raves
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.mitchellspryn.com"
+url: "http://www.mitchellspryn.com"
 repository: "BlogRaw"
 staticman_branch: "master"
 github_username:  mitchellspryn

@@ -1,6 +1,6 @@
 comments:
   allowedFields: ["name", "email", "message", "postTitle"]
-  allowedOrigins: ["localhost", "mitchellspryn.github.io", "mitchellspryn.com"]
+  allowedOrigins: ["localhost", "mitchellspryn.github.io", "mitchellspryn.com", "www.mitchellspryn.com"]
   branch: "master"
   generatedFields:
     date:

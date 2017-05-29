@@ -11,7 +11,7 @@ comments:
   moderation: true
   name: "mitchellspryn.github.io"
   path: "_data/comments/{options.slug}"
-  filename: "{@postTitle}-{@id}"
+  filename: "{@id}"
   requiredFields: ["name", "email", "message", "postTitle"]
   commitMessage: "New User Comment Submitted."
   pullRequestBody: "A new comment was submitted.\n\n"

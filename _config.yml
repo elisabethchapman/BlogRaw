@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Mitchell Spryn
 email: mitchell.spryn@gmail.com
-name: Random Neuron Firings
+name: MitchellSpryn
 description: > # this means to ignore newlines until "baseurl:"
-  A space for the random rants and raves
+  A place for technical tutorials, project summaries, and rants and raves about robotics, machine learning, and cloud computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mitchellspryn.com"
 repository: "BlogRaw"

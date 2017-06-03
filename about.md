@@ -4,6 +4,10 @@ title: About
 
 ---
 
+# About the Site
+
+You've reached MitchellSpryn.com! This site is a random assortment of technical tutorials, project showcases, and opinionated rants about robotics, machine learning, and cloud computing. If there is a topic that you'd like to see covered, feel free to shoot me an email!
+
 # About the Author
 
 <div style="text-align:center"><img src="{{site.url}}/content/headshot.png"></div>

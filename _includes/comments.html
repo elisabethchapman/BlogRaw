@@ -2,18 +2,25 @@
   <div class="row text-center">
     <span class="align-middle" style="font-size:36px">Comments</span>
   </div>
-  {% assign comments = site.data.comments %}
-  {% for comment in comments %}
-    {% assign currentComment = comment[1] %}
-    {% if currentComment.postTitle == page.slug %}
+  
+  {% if site.data.comments[page.slug] %}
+    {% assign comments = site.data.comments[page.slug] | sort %}
+    {% for comment in comments %}
       <div class="row">
-      <span style="font-size:28px">{{currentComment.name}}</span>
+        <div class="col-md-8">
+          <span style="font-size:28px">{{comment[1].name}}</span>
+        </div>
+        <div class="col-md-4 pull-right">
+          <span style="text-align: right">({{comment[1].date | date: "%Y-%m-%d %H:%M"}})</span>
+        </div>
       </div>
       <div class="row">
-      {{currentComment.message | markdownify}}
+        <div class="col-md-12">
+          {{comment[1].message | markdownify}}
+        </div>
       </div>
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
+  {% endif %}
 
   <div class="row text-center">
     <span class="align-middle" style="font-size:36px">Leave a comment</span>

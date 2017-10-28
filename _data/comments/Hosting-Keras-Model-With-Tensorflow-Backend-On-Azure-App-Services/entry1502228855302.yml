@@ -1,0 +1,10 @@
+_id: 30221730-7c83-11e7-8c60-43bdb6cefbad
+postTitle: Hosting-Keras-Model-With-Tensorflow-Backend-On-Azure-App-Services
+message: >-
+  Hi. Great tutorial. Would be interested how you managed to get the server to
+  actually run with p3.5. If i run app.py (which starts the server) in kudu it
+  shows that the server has started at 127.0.0.1 on port 5000, which isn't how
+  its configured in the app...
+email: 5ab88e8a604084423ef2a20cec261d5e
+name: Tomi
+date: 1502228855

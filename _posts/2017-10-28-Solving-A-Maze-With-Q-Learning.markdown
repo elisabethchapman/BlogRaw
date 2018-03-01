@@ -5,6 +5,7 @@ date:   2017-10-28 12:00:00 -0700
 comments: true
 tags:
   - Q Learning
+  - Reinforcement Learning
   - Machine Learning
   - Artificial Intelligence
   - Python

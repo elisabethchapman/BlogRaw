@@ -1,0 +1,27 @@
+_id: 2b4aec40-2990-11e8-9355-9ff5c65d6e8d
+postTitle: Solving-A-Maze-With-Q-Learning
+message: >-
+  Sure!
+
+
+  In this problem, we've defined a state to be a square on the maze. So, a 3X3
+  maze has 9 states, because there are 9 squares. A 3x4 matrix would have 12
+  states, etc. An action moves the agent from one state to another state. So,
+  for example, if the agent moves from the top-left square to the square
+  directly to its right, it would be taking the action of moving from (0 -> 1).
+  We see that for a maze with N states, there are theoretically NxN possible
+  actions that the agent can take. To keep track of the Q and R values for those
+  actions, we need a NxN matrix, which is where the 9x9 matrix (in this case)
+  comes from.
+
+
+  Note that for this particular problem, this isn't the most efficient data
+  storage strategy. Most of the actions denoted above are actually invalid. For
+  example, in the 3x3 case, the agent can't magically jump from state 0 to state
+  6, as they aren't touching. We could certainly come up with more efficient
+  data storage structures for large matrices. But a matrix is easy to visualize
+  and for reasonably small mazes, performs well enough.
+email: 80aa204b796038a07a88e745b4ae697f
+name: Mitchell Spryn
+date: 1521255981
+layout: post

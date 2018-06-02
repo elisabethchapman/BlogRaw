@@ -125,6 +125,8 @@ To go with this post, I have developed a tutorial on [The Autonomous Driving Coo
 
 ![car_driving]({{site.url}}/content/Autonomous-Driving-With-Deep-Reinforcement-Learning/car_driving.gif)
 
+UPDATE: Based on the work done for this tutorial, we were able to submit a publication to the International Conference for Software Engineering (ICSE)! [Here is a link to the paper]({{site.url}}/content/Autonomous-Driving-With-Deep-Reinforcement-Learning/DistributedRlForAd.pdf)
+
 # Summary
 
 In this post, we applied Q Learning to solve a non-trivial problem: learning to drive an autonomous vehicle. We saw why the Bellman Equation cannot be directly applied in this case to compute the Q values, necessitating a predictive model. We saw some of the tricks that were needed to allow the DQN to converge on a solution, and ended up with an end-to-end example that could be used to drive the vehicle. Since the introduction of the DQN, many additional architectural advancements have been made (such as the "Dueling" Deep Q Network), but even with a simple model, it is possible to get very good results on nontrivial problems. 

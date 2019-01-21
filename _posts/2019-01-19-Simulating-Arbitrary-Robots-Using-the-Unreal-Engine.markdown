@@ -57,8 +57,14 @@ After 9 months of development, the URDF-based simulation is complete. It support
 
 Here are a few GIFs of some sample robots in action!
 
-![gif1]()
-![gif2]()
+![Lunabot]({{site.url}}/content/Simulating-Arbitrary-Robots-Using-the-Unreal-Engine/Lunabot.gif)
+A recreation of the Lunabot from the 2012 competition. In addition to showing off the capabilities of the system to accurately capture the motion of a complex robot, it also shows off the debug mode, which makes it easier to construct the necessary simulation files. 
+
+![Arm]({{site.url}}/content/Simulating-Arbitrary-Robots-Using-the-Unreal-Engine/Arm.gif)
+A 4-DOF robotic arm.
+
+![CameraOnArm]({{site.url}}/content/Simulating-Arbitrary-Robots-Using-the-Unreal-Engine/CameraOnArm.gif)
+The same robot as above, but with the camera attached to the arm. 
 
 # Analysis of solution
 After every project, it's important to look back on the project and determine what went well, what went poorly, and what knowledge can be transferred to new projects. First, let's take a critical look at the simulator. We have already discussed the highlights of the simulator in the previous paragraphs, but we should analyze some of the shortcomings:

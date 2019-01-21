@@ -16,7 +16,7 @@ tags:
 
 # Introduction
 
-In the [previous blog post on Q learning](http://www.google.com), we discussed the Q learning algorithm and applied it to a simple scenario. Recall that the Q learning algorithm operates in the context of an autonomous "agent" which is able to interact with its environment and receive rewards based upon its actions. Based on the rewards, the agent attempts to compute "Q" values for each of the possible actions at each state. Once it has computed the Q values, then the agent will take the action that has received the highest Q value overall. Recall that the Q values are defined by the [Bellman Equation](http://www.snn.ru.nl/~bertk/comp_neurosci/rl.pdf):
+In the [previous blog post on Q learning](http://www.mitchellspryn.com/2017/10/28/Solving-A-Maze-With-Q-Learning.html), we discussed the Q learning algorithm and applied it to a simple scenario. Recall that the Q learning algorithm operates in the context of an autonomous "agent" which is able to interact with its environment and receive rewards based upon its actions. Based on the rewards, the agent attempts to compute "Q" values for each of the possible actions at each state. Once it has computed the Q values, then the agent will take the action that has received the highest Q value overall. Recall that the Q values are defined by the [Bellman Equation](http://www.snn.ru.nl/~bertk/comp_neurosci/rl.pdf):
 
 **Q(A(s,s')) = R(A(s,s')) + (gamma * Max<sub>s''\|s'</sub>(Q(A(s', s''))))**
 

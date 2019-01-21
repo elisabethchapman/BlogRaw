@@ -66,6 +66,8 @@ A 4-DOF robotic arm.
 ![CameraOnArm]({{site.url}}/content/Simulating-Arbitrary-Robots-Using-the-Unreal-Engine/CameraOnArm.gif)
 The same robot as above, but with the camera attached to the arm. 
 
+[Here is a link to the repository for the plugin](https://github.com/mitchellspryn/UrdfSim).
+
 # Analysis of solution
 After every project, it's important to look back on the project and determine what went well, what went poorly, and what knowledge can be transferred to new projects. First, let's take a critical look at the simulator. We have already discussed the highlights of the simulator in the previous paragraphs, but we should analyze some of the shortcomings:
 

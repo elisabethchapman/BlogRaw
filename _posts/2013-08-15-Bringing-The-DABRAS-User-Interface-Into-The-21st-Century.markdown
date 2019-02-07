@@ -4,9 +4,9 @@ title:  "Bringing the DABRAS User Interface Into the 21st Century"
 date:   2013-08-15 19:30:55 -0700
 comments: true
 tags:
-  - project
-  - c sharp
-  - professional
+  - Project
+  - C Sharp
+  - Professional
 ---
 
 The field of particle physics is one of the most fascinating active areas of physical research today. One of the unfortunate side effects of playing with atoms, however, is the generation of radioactive particles. When splitting atoms, it is possible to contaminate an area with radiation; radiation that is hazardous to human health. Despite the depictions in the movies, it can be difficult to detect whether a room has been contaminated by radioactive particles. There generally isn't a green glowing blob! There have been many means developed to detect radiation, but one of the most ingenious methods has been the DABRAS, designed by health physicists at Argonne National Laboratory.

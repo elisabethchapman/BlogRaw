@@ -4,13 +4,13 @@ title:  "Automated Pest Deterrent System"
 date:   2015-05-23 19:30:55 -0700
 comments: true
 tags:
-  - embedded systems
-  - robotics
-  - project
-  - machine learning
-  - c plus plus
-  - image processing
-  - computer vision
+  - Embedded Systems
+  - Robotics
+  - Project
+  - Machine Learning
+  - C Plus Plus
+  - Image Processing
+  - Computer Vision
 ---
 
 		

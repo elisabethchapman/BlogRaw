@@ -4,7 +4,7 @@ title:  "What Material Should I Use For My Robotic Chassis"
 date:   2017-06-04 12:00:00 -0700
 comments: true
 tags:
-  - robotics
+  - Robotics
 ---
 
 One of the most important parts of the robot is the chassis. This piece ties all of the components together, and determines many of the operating characteristics of the robot. Behind every successful robot is a meticulously designed chassis, oftentimes custom-built for the purpose. Sometimes, you can get lucky and piggyback off of someone else's design, using a pre-built chassis. However, most of the times these pre-designed chassises are too expensive or unsuitable for the task the robot is to perform, so a custom-built chassis is required.

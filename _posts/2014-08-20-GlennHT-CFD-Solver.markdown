@@ -4,10 +4,10 @@ title:  "GlennHT-CFD-Solver"
 date:   2014-08-20 19:30:55 -0700
 comments: true
 tags:
-  - professional
-  - java
-  - c plus plus
-  - computational fluid dynamics
+  - Professional
+  - Java
+  - C Plus Plus
+  - Computational Fluid Dynamics
 ---
 
 One of the most active areas of physics research today is in the area of fluid dynamics. The motion of fluids such as water and air are of key importance when designing systems such as cars, boats, airplanes, and space shuttles. The difficult part of fluid dynamics is that the equations of motion of fluids are particularly complex, with analytical solutions unavailable for all but the simplest of problems.In order to obtain meaningful answers, it is necessary to resort to computational methods, writing computer code to numerically simulate the flow of fluids in and around complex geometries such as airplane wings or jet turbines.

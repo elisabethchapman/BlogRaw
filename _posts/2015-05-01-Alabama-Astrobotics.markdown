@@ -4,11 +4,11 @@ title:  "Alabama Astrobotics"
 date:   2015-05-01 19:30:55 -0700
 comments: true
 tags:
-  - project
-  - robotics
-  - embedded systems
-  - c plus plus
-  - c sharp
+  - Project
+  - Robotics
+  - Embedded Systems
+  - C Plus Plus
+  - C Sharp
 ---
 
 As humans begin to explore deeper into space and mission times become longer, the cost of transporting vital supplies such as fuel, water, and food become prohibitively expensive. Accordingly, one of the concepts being researched at NASA is "in-situ resource utilization." Essentially, instead of carrying all of the supplies that are needed for the entire mission, only enough supplies needed to reach the destination are loaded onto the shuttle. Once at the destination, be it an asteroid, planet, or some other celestial body, the natural resources of the destination will be used. If this process can be achieved, then the creation of a self-sustaining colony on another planet enters the realm of possibility.

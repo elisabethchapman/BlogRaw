@@ -4,10 +4,10 @@ title:  "Hardware Neural Network Generation Tool"
 date:   2016-10-23 19:30:55 -0700
 comments: true
 tags:
-  - c sharp
-  - vhdl
-  - machine learning
-  - embedded systems
+  - C Sharp
+  - VHDL
+  - Machine Learning
+  - Embedded Eystems
 ---
 
 I had just finished taking a [MOOC](https://www.coursera.org/learn/machine-learning) hosted by Andrew Ng on machine learning. One of the topics covered in that course was the concept of neural networks. Briefly, the neural network is a machine learning technique in which one attempts to computationally model the human brain, and use that model to make decisions. While there are many different models in use today, the course focused on one of the simpler models - the multilayer perceptron (MLP).

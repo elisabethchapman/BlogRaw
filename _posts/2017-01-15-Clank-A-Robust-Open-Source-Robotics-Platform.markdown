@@ -4,10 +4,10 @@ title:  "Clank: A Robust, Open-Source Robotics Platform"
 date:   2017-01-15 19:30:55 -0700
 comments: true
 tags:
-  - project
-  - c plus plus
-  - embedded systems
-  - robotics
+  - Project
+  - C Plus Plus
+  - Embedded Systems
+  - Robotics
 ---
 
 Robotics is one of the most exciting fields, but also one of the most difficult to get started with. A robot has many moving parts, requiring knowledge in mechanical engineering, electrical engineering and computer science in order to create even the simplest robot. For a beginner, it can be overwhelming attempting to break into the field. Pre-built kits exist, but those usually fall into one of two categories: prohibitively expensive for those without governmental research grants or so underpowered and fragile they might as well be considered toys. In this project, I created a robust, scalable robotic platform that is robust enough to perform in a variety of outdoor environments. In addition, it must be affordable, costing less than $1000 to assemble from scratch. Also, it must contain enough processing power to allow for experimentation with autonomous navigation algorithms. Finally, it must be simple enough to assemble that one without a PhD in robotics could create the platform.

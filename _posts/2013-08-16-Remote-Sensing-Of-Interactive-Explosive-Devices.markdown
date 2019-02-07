@@ -4,11 +4,11 @@ title:  "Remote Sensing of Interactive Explosive Devices"
 date:   2013-08-16 19:30:55 -0700
 comments: true
 tags:
-  - embedded systems
-  - pcb design
-  - sensors
-  - professional
-  - project
+  - Embedded Systems
+  - PCB Design
+  - Sensors
+  - Professional
+  - Project
 ---
 
 After the 9/11 attacks, the detection of terrorist threats has been one of the top priorities of the US government. Oftentimes, terrorists plot to detonate explosives near important structures such as airports, military bases, or subways. While some terrorists have access to military-grade explosives, many rely on cobbled-together explosive devices based off of cheap nitrates, dubbed "Improvised Explosive Devices" (IEDs). If the military is to stop terrorists using IEDs, they need a method of detecting these devices.

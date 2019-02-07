@@ -4,8 +4,8 @@ title:  "Extracting Images from a RosBag"
 date:   2017-05-20 19:30:55 -0700
 comments: true
 tags:
-  - ros
-  - bash
+  - ROS
+  - Bash
 ---
 
 [Ros](http://www.ros.org/) is the framework powering most complex robots today. It comes with a lot of benefits - one of the most important being the [rosbag](http://wiki.ros.org/rosbag). Rosbags are incredibly versitile and useful data storage containers, being able to store any sort of data that can be passed between nodes within a system. Using rosbags, it is possible to save data from a test run, make modifications to the code, and "replay" the test run with the new code using the collected data. This powerful capability reduces the need for manual testing, decreasing implementation time and improving code quality. 

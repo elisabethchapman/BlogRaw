@@ -4,12 +4,12 @@ title:  "Hosting a Keras model with the Tensorflow Backend on Azure App Services
 date:   2017-05-22 19:30:55 -0700
 comments: true
 tags:
-  - keras
-  - tensorflow
-  - azure
-  - app services
-  - django
-  - python
+  - Keras
+  - Tensorflow
+  - Azure
+  - App Services
+  - Django
+  - Python
 ---
 
 # Motivation
